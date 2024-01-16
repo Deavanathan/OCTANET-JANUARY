@@ -1,0 +1,266 @@
+.desktop-1-child {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 0 0 var(--br-23xl) var(--br-23xl);
+    background-color: #110056;
+    width: 1440px;
+    height: 148px;
+  }
+  .escape-the-ordinary-embrace {
+    margin: 0;
+  }
+  .escape-the-ordinary-embrace-container {
+    position: absolute;
+    top: 185px;
+    left: 113px;
+    font-size: 40px;
+    font-family: var(--font-lemon);
+    color: #9b0e49;
+    display: inline-block;
+    width: 909px;
+    height: 128px;
+  }
+  .desktop-1-item {
+    position: absolute;
+    top: 490px;
+    left: 99px;
+    border-radius: 26px;
+    background-color: rgba(217, 217, 217, 0.6);
+    width: 1243px;
+    height: 121px;
+  }
+  .asteria,
+  .group-icon {
+    position: absolute;
+    top: 25px;
+    left: 33px;
+    width: 89px;
+    height: 84.3px;
+  }
+  .asteria {
+    top: 39px;
+    left: 152px;
+    color: var(--color-white);
+    display: inline-block;
+    width: 240px;
+    height: 59px;
+  }
+  .group-child {
+    position: absolute;
+    top: 2px;
+    left: 0;
+    border-radius: var(--br-lg) 0 var(--br-lg) var(--br-lg);
+    background-color: var(--color-gainsboro-100);
+    width: 171px;
+    height: 55px;
+  }
+  .contact {
+    position: absolute;
+    top: 0;
+    left: 3px;
+  }
+  .desktop-1-inner,
+  .instance-child,
+  .rectangle-parent {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 171px;
+    height: 68px;
+  }
+  .desktop-1-inner,
+  .instance-child {
+    top: 43px;
+    left: 1239px;
+  }
+  .instance-child {
+    height: 80.88%;
+    width: 100%;
+    top: 1.47%;
+    right: 0;
+    bottom: 17.65%;
+    left: 0;
+    border-radius: var(--br-lg) 0 var(--br-lg) var(--br-lg);
+    background-color: var(--color-gainsboro-100);
+  }
+  .home {
+    position: absolute;
+    top: 0;
+    left: 10.96%;
+  }
+  .instance-item,
+  .rectangle-group {
+    position: absolute;
+    top: 42px;
+    left: 672px;
+    width: 146px;
+    height: 68px;
+  }
+  .instance-item {
+    height: 80.88%;
+    width: 100%;
+    top: 2.94%;
+    right: 0;
+    bottom: 16.18%;
+    left: 0;
+    border-radius: var(--br-lg) 0 var(--br-lg) var(--br-lg);
+    background-color: var(--color-gainsboro-100);
+  }
+  .about {
+    position: absolute;
+    top: 0;
+    left: 9.59%;
+  }
+  .rectangle-container {
+    position: absolute;
+    top: 42px;
+    left: 842px;
+    width: 146px;
+    height: 68px;
+  }
+  .facilities,
+  .instance-inner {
+    position: absolute;
+    width: 100%;
+    left: 0;
+  }
+  .instance-inner {
+    height: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    border-radius: var(--br-lg) 0 var(--br-lg) var(--br-lg);
+    background-color: var(--color-gainsboro-100);
+  }
+  .facilities {
+    height: 83.64%;
+    top: 3.64%;
+    display: inline-block;
+  }
+  .group-div {
+    position: absolute;
+    top: 43px;
+    left: 1022px;
+    width: 190px;
+    height: 55px;
+  }
+  .we-are-focused-container {
+    position: absolute;
+    top: 501px;
+    left: 122px;
+    line-height: 40px;
+    font-family: var(--font-italianno);
+  }
+  .rectangle-div {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    border-radius: 126px;
+    background-color: #ebff04;
+  }
+  .book-now {
+    position: absolute;
+    top: 21.52%;
+    left: 29.93%;
+    line-height: 40px;
+  }
+  .rectangle-parent1 {
+    position: absolute;
+    top: 512px;
+    left: 904px;
+    width: 294px;
+    height: 79px;
+    font-family: var(--font-karantina);
+  }
+  .instance-child1 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    border-radius: 36px;
+    background-color: rgba(241, 8, 218, 0.75);
+  }
+  .about-us {
+    position: absolute;
+    top: 9.39%;
+    left: 6.16%;
+    line-height: 40px;
+  }
+  .rectangle-parent2 {
+    position: absolute;
+    top: 706px;
+    left: 113px;
+    width: 1218px;
+    height: 426px;
+    color: var(--color-white);
+    font-family: var(--font-karantina);
+  }
+  .images-1-1,
+  .images-3-1,
+  .images-4-1 {
+    position: absolute;
+    top: 1224px;
+    left: 31px;
+    width: 443px;
+    height: 291px;
+    object-fit: cover;
+  }
+  .images-3-1,
+  .images-4-1 {
+    left: 980px;
+    width: 433px;
+  }
+  .images-4-1 {
+    left: 509px;
+    width: 418px;
+  }
+  .desktop-1-child1 {
+    position: absolute;
+    top: 1788px;
+    left: 69px;
+    border-radius: 135px;
+    background-color: rgba(130, 80, 234, 0.5);
+    width: 1319px;
+    height: 138px;
+  }
+  .span {
+    font-size: 12px;
+  }
+  .contact123-456-789-asteriagm {
+    position: absolute;
+    top: 1780px;
+    left: 146px;
+    font-family: var(--font-inter);
+    color: var(--color-white);
+    white-space: pre-wrap;
+    display: inline-block;
+    width: 1227px;
+    height: 67px;
+  }
+  .desktop-1 {
+    position: relative;
+    width: 100%;
+    height: 2114px;
+    overflow: hidden;
+    background-image: url(./public/desktop--1@3x.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+    text-align: left;
+    font-size: var(--font-size-29xl);
+    color: var(--color-black);
+    font-family: var(--font-jim-nightshade);
+  }
+
+  
+body{
+    background-image:url("C:/Users/DEAVANATHAN/Pictures/project img/pexels-donald-tong-189296.jpg");
+}
